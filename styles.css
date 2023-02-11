@@ -1,0 +1,21 @@
+* {
+    background-color: black;
+}
+
+.time-container, .date-container {
+    border: 1px solid rgb(26, 221, 43);
+    height: 75px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+
+   .date, .time {
+    font-size: 50px;
+    color: rgb(26, 221, 43);
+    text-align: center;
+
+   }
+
